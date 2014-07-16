@@ -1,0 +1,38 @@
+.bBallStyle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	font-variant: small-caps;
+	text-align: left;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+.bBallText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	font-variant: normal;
+	margin-right: 50px;
+	margin-left: 50px;
+	text-align: left;
+	color: #333333;
+
+}
+
+.bBallCaption {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	font-variant: normal;
+	margin-right: 0px;
+	margin-left: 0px;
+	text-align: center;
+	color: #333333;
+
+}
+
+.bBallCtr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
